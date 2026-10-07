@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "dsgang67.aternos.me",
-    "port": 60642,
+    "ip": "dsgangbuilder.aternos.me",
+    "port": 63080,
     "version": "",
     "try-creative": false
   },
